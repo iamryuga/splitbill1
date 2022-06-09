@@ -11,7 +11,7 @@ import android.widget.Toast;
 public class Login extends AppCompatActivity {
 
     public void gotoRegistration(View view){
-        startActivity(new Intent(Login.this,Registration.class));
+        startActivity(new Intent(Login.this,Phoneverification.class));
     }
     @Override
     protected void onCreate(Bundle savedInstanceState) {

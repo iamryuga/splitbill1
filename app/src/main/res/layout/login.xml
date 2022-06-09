@@ -80,15 +80,15 @@
         android:layout_height="48dp"
 
         android:layout_below="@id/forgot_password"
-        android:layout_centerInParent="true"
 
+        android:layout_centerInParent="true"
         android:layout_marginStart="40dp"
         android:layout_marginTop="26dp"
         android:background="@drawable/buttoncorner"
-        android:backgroundTint="#9AC1ED"
+
         android:text="Login"
         android:textColor="@color/white"
-        app:backgroundTint="#549FF3" />
+        app:backgroundTint="#549FF9" />
 
     <TextView
         android:layout_width="wrap_content"
