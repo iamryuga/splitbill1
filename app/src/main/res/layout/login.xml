@@ -55,7 +55,7 @@
         android:drawableEnd="@drawable/ic_baseline_remove_red_eye_24"
         android:drawablePadding="20dp"
         android:hint="Password"
-        android:inputType="textPassword"
+        android:inputType="text"
         android:padding="20dp"
         android:textColor="@color/white"
         android:textColorHint="@color/white" />
@@ -80,8 +80,8 @@
         android:layout_height="48dp"
 
         android:layout_below="@id/forgot_password"
-        android:layout_centerInParent="true"
 
+        android:layout_centerInParent="true"
         android:layout_marginStart="40dp"
         android:layout_marginTop="26dp"
         android:background="@drawable/buttoncorner"
@@ -143,7 +143,7 @@
         android:layout_alignParentBottom="true"
         android:layout_marginBottom="0dp"
         android:gravity="center"
-        android:onClick="gotoRegistration">
+        >
 
         <TextView
             android:id="@+id/account"
