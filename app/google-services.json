@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1030716482058",
+    "project_id": "splitbill-e7c2f",
+    "storage_bucket": "splitbill-e7c2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030716482058:android:ddbed22f33adc18b6935f3",
+        "android_client_info": {
+          "package_name": "com.example.splitamount"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030716482058-cun89f28unjnrop6sbon9sna1fa2b5hk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJCQ5cKeXHljjAQZpnqn6yGvxEZ3PWXLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030716482058-cun89f28unjnrop6sbon9sna1fa2b5hk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
